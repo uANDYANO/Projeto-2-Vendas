@@ -99,7 +99,7 @@ Foram testados os seguintes cenários:
 ## ✍️ **Autor**
 
 Desenvolvido por **Anderson Salviano**  
-📧 *anderson.salviano@exemplo.com*  
+📧 *andyanodev@gmail.com*  
 💼 *Módulo 25 - Curso Back-End Java*
 
 ---
